@@ -1,5 +1,6 @@
 package org.example
 
 fun main() {
-    println("Hello World!")
+    val nome = readLine()!!
+    val documento = readLine()!!
 }
